@@ -9,6 +9,6 @@ Dependencies:
 
 
 Procedure:
-set GOPATH
-go install
+set GOPATH, 
+go install, 
 Run
