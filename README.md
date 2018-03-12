@@ -6,9 +6,3 @@ Dependencies:
 "github.com/eahydra/gouuid"
 "github.com/nfnt/resize"
 "github.com/gorilla/mux"
-
-
-Procedure:
-set GOPATH, 
-go install, 
-Run
